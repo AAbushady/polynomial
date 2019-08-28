@@ -5,6 +5,12 @@
     In this situation x will = 3.
 */
 
+// Welcome the User
+console.log("Welcome to Polynomial");
+
 let x = 3;
 
 console.log(`If x = 3, the polynomial x^2 - 4x +7 will equal: ${Math.pow(x, 2) - 4 * x + 7}`);
+
+// Thank the User
+console.log("Thank you for using Polynomial");
